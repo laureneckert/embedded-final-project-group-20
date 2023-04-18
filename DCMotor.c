@@ -1,0 +1,3 @@
+/*
+This section is the code that makes the DC Motor an output for our final project.
+*/
