@@ -1,0 +1,3 @@
+/*
+This section is the code to communicate UART with the MSP to the ESP module.
+*/
